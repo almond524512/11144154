@@ -21,7 +21,15 @@ nav {
     text-align: center;
 }
 
+nav a {
+    padding: 14px;
+    display: inline-block;
+}
 
+nav a:hover {
+    background-color: #cda8b8;
+    color: white;
+}
 
 footer {
     background-color: #666a86;
